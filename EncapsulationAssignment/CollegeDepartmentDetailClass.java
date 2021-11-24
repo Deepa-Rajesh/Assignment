@@ -1,4 +1,4 @@
-// java program for Encapsulation
+package EncapsulationAssignment;// java program for Encapsulation
 import java.util.ArrayList;
 import java.util.List;
 
